@@ -1,0 +1,36 @@
+.container{
+   text-align: center;
+}
+body{
+    background-color:bisque;
+}
+#input{
+    width: 50%;
+    
+    border-radius: 10rem;
+    padding: 1%;
+    font-size: 20px;
+    
+}
+.para-style{
+    font-size:x-large;
+    font-family: cursive;
+    text-align: left;
+    padding-left: 22%;
+}
+#add{
+    width: 5%;
+    padding: 1%;
+    font-size: 17px;
+    border-radius: 10px;
+}
+#add:hover{
+    background-color:darkgrey
+}
+#todo{
+    margin-top: 25px;
+}
+.par{
+    color:darkblue;
+    font-weight: 800;
+}
